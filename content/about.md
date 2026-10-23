@@ -1,8 +1,8 @@
-{{name}} is a minimalist portfolio system for designers, artists, photographers, architects, and creative practices. It gives image, motion, and editorial copy equal weight without adding unnecessary interface.
+{{name}} 是一个极简的个人作品集网站，用于展示动画、视觉设计与动态影像作品。我将重心放在画面与叙事上，赋予图片和影像同等的重量，剔除所有多余的界面干扰。
 
-- {{location}}
-- [{{email}}](mailto:{{email}})
+- 坐标：{{location}}
+- 邮箱：[{{email}}](mailto:{{email}})
 
-> “Use this space for a concise point of view, working principle, or studio statement.”
+> “在这里写下你的创作理念、工作原则，或者一句简短的个人宣言。”
 
-Replace this demonstration copy with a short introduction, contact details, and only the information your practice needs.
+这里是我的个人介绍空间。你可以用这段文字介绍你的背景、擅长的领域以及合作方式。如果你对我的作品感兴趣，欢迎随时通过邮件与我联系。
